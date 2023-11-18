@@ -82,10 +82,11 @@ analytics:
 author: 
   name             : "Amirhossein Razavi"
   avatar           : "profile.png"
-  bio              : > 
-    Currently working as Data Engineer Consultant at Beam Data
-    
-    BSc Graduate with Honours in Computer Science from York University
+  bio              : | 
+                      "Currently working as Data Engineer Consultant at Beam Data
+
+
+                      BSc Graduate with Honours in Computer Science from York University"
   location         : "Toronto, Ontario"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
