@@ -36,13 +36,13 @@ The project successfully demonstrates the applicability of link analysis algorit
 ## Project Report
 View the detailed project report below:
 
-<iframe src="https://docs.google.com/viewer?embedded=true&url=https://raw.githubusercontent.com/razaviah/razaviah.github.io/master/files/EECS4414-Final-Project-Report.pdf" width="100%" height="700px" style="border:3px solid black;"></iframe>
+<iframe src="https://docs.google.com/viewer?embedded=true&url=https://raw.githubusercontent.com/razaviah/razaviah.github.io/master/files/EECS4414_Final_Project_Report.pdf" width="100%" height="700px" style="border:3px solid black;"></iframe>
 
-Or, you can download it via this [link](https://raw.githubusercontent.com/razaviah/razaviah.github.io/master/files/EECS4414-Final-Project-Report.pdf)
+Or, you can download it via this [link](https://raw.githubusercontent.com/razaviah/razaviah.github.io/master/files/EECS4414_Final_Project_Report.pdf)
 
 ## Project Slides
 View the slides created for this project below:
 
-<iframe src="https://docs.google.com/viewer?embedded=true&url=https://raw.githubusercontent.com/razaviah/razaviah.github.io/master/files/EECS4414-Final-Project-Presentation-Slides.pdf" width="100%" height="700px" style="border:3px solid black;"></iframe>
+<iframe src="https://docs.google.com/viewer?embedded=true&url=https://raw.githubusercontent.com/razaviah/razaviah.github.io/master/files/EECS4414_Final_Project_Presentation_Slides.pdf" width="100%" height="700px" style="border:3px solid black;"></iframe>
 
-Or, you can download it via this [link](https://raw.githubusercontent.com/razaviah/razaviah.github.io/master/files/EECS4414-Final-Project-Presentation-Slides.pdf)
+Or, you can download it via this [link](https://raw.githubusercontent.com/razaviah/razaviah.github.io/master/files/EECS4414_Final_Project_Presentation_Slides.pdf)
