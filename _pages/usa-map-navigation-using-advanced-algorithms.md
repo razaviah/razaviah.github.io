@@ -35,4 +35,4 @@ The project evaluation focused on:
 - **Heuristic Analysis for A-Star Search:** Incorporated a heuristic file (`heuristic_Frankfort.txt`) in the A-Star search algorithm to optimize the search process.
 
 ## Link To The Project
-You can view the github page of this project using this [link](https://raw.githubusercontent.com/razaviah/razaviah.github.io/master/files/EECS4401_Final_Project_Presentation_Slides.pdf)
+You can view the github page of this project using this [link](https://github.com/razaviah/USA-Map-Navigation-using-Advanced-Algorithms/tree/main)
