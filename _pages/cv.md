@@ -32,7 +32,7 @@ Professional Training
 
 Research and Academic Experiences
 ======
-* **Dataset Generation, and Evaluation for Natural Question Generation**
+* [**Dataset Generation, and Evaluation for Natural Question Generation**](https://razaviah.github.io/projects/dataset-generation-and-evaluation-for-natural-question-generation)
   * Under supervision of Prof. An (Capstone Project)
 * **Enhancing Customer Insights in Wholesale Distribution**
   * Under supervision of Prof. Garg
