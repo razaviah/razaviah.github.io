@@ -71,7 +71,8 @@ Technical Skills
 
 Languages
 ======
-* English, Persian
+* English
+* Persian
 
 Awards, Honours, and Scholarships
 ======
@@ -82,9 +83,9 @@ Awards, Honours, and Scholarships
 
 Extra-Curricular and Volunteer Work
 ======
-* Volunteered at the "Iranian Stuttering School" association (2020 - Present).
-* Fundraising for low-income students back to school equipment and cloth (2018 - 2020).
-* Taught first year Math and Computer courses to students with learning challenges (2017 - 2018).
+* Volunteered at the "Iranian Stuttering School" association (2020 - Present)
+* Fundraising for low-income students back to school equipment and cloth (2018 - 2020)
+* Taught first year Math and Computer courses to students with learning challenges (2017 - 2018)
 
 References
 ======
