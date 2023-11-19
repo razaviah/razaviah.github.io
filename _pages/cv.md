@@ -38,7 +38,7 @@ Research and Academic Experiences
   * Under supervision of Prof. Garg
 * **Exploring Red Wine Quality through Data Science**
   * Under supervision of Prof. Garg
-* **Advanced Four in a Row Game Simulation**
+* [**Advanced Four in a Row Game Simulation**](https://razaviah.github.io/projects/advanced-four-in-a-row-game-simulation)
   * Under supervision of Prof. Garg
 * [**USA Map Navigation using Advanced Algorithms**](https://razaviah.github.io/projects/usa-map-navigation-using-advanced-algorithms)
   * Under supervision of Prof. Garg
