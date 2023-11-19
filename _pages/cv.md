@@ -44,7 +44,7 @@ Research and Academic Experiences
   * Under supervision of Prof. Garg
 * **Evaluating Clingo ASP Solver**
   * Under supervision of Prof. Lesperance
-* **Social Network Influencer Ranking Based On Link Analysis**
+* [**Social Network Influencer Ranking Based On Link Analysis**](https://razaviah.github.io/projects/social-network-influencer-ranking-based-on-link-analysis)
   * Under supervision of Prof. Papagelis
 
 Personal Projects
