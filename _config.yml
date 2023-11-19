@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Amirhossein Razavi"
+title                    : "Amirhossein Razavi", "Main Page"
 title_separator          : "-"
 name                     : &name "Amirhossein Razavi"
 description              : &description "personal description"
