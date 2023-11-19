@@ -2,8 +2,6 @@
 permalink: /projects-dataset-generation-and-evaluation-for-natural-question-generation
 title: "Showing PDF in Markdown"
 author_profile: true
-redirect_from: 
-  - /projects-dataset-generation-and-evaluation-for-natural-question-generation.html
 ---
 # Dataset Generation and Evaluation for Natural Question Generation
 
