@@ -28,7 +28,12 @@ The evaluation focused on:
 - The study highlighted the robustness of Clingo in dealing with large and complex datasets, albeit some limitations in specific scenarios&#8203;``【oaicite:1】``&#8203;.
 
 ## Personal Contributions
-- [Your specific contributions to the project, e.g., problem selection, data analysis, comparison study, etc.]
+- Introduction and overview development
+- Methodology design and implementation
+- Software testing and analysis
+- Problem selection for testing
+- Usability assessment and comparative analysis
+- Project presentation and reporting
 
 ## Conclusion
 The project concluded that Clingo is a highly capable tool for solving logical problems, offering quick and efficient solutions. It provides detailed statistical data, useful for various purposes such as algorithm analysis and solution optimization&#8203;``【oaicite:0】``&#8203;.
