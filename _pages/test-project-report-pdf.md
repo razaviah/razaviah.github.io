@@ -1,5 +1,5 @@
 ---
-permalink: /projects-dataset-generation-and-evaluation-for-natural-question-generation
+permalink: /projects/dataset-generation-and-evaluation-for-natural-question-generation
 title: "Showing PDF in Markdown"
 author_profile: true
 ---
@@ -38,3 +38,12 @@ The project represents a significant step in NQG, offering a robust dataset and 
 View the detailed project report below:
 
 <iframe src="https://docs.google.com/viewer?embedded=true&url=https://raw.githubusercontent.com/razaviah/razaviah.github.io/master/files/EECS4088-Final-Project-Report.pdf" width="100%" height="700px" style="border:3px solid black;"></iframe>
+
+Or, you can download it via this [link](https://raw.githubusercontent.com/razaviah/razaviah.github.io/master/files/EECS4088-Final-Project-Report.pdf)
+
+## Project Slides
+View the slides created for this project below:
+
+<iframe src="https://docs.google.com/viewer?embedded=true&url=https://raw.githubusercontent.com/razaviah/razaviah.github.io/master/files/EECS4088-Final-Project-Report.pdf" width="100%" height="700px" style="border:3px solid black;"></iframe>
+
+Or, you can download it via this [link](https://raw.githubusercontent.com/razaviah/razaviah.github.io/master/files/EECS4088-Final-Project-Report.pdf)
