@@ -1,9 +1,8 @@
 ---
 permalink: /projects/dataset-generation-and-evaluation-for-natural-question-generation
-title: "Showing PDF in Markdown"
+title: "Dataset Generation and Evaluation for Natural Question Generation"
 author_profile: true
 ---
-# Dataset Generation and Evaluation for Natural Question Generation
 
 **Supervisor:** Prof. An  
 **Type:** Capstone Project
