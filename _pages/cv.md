@@ -40,7 +40,7 @@ Research and Academic Experiences
   * Under supervision of Prof. Garg
 * **Advanced Four in a Row Game Simulation**
   * Under supervision of Prof. Garg
-* **USA Map Navigation using Advanced Algorithms**
+* [**USA Map Navigation using Advanced Algorithms**](https://razaviah.github.io/projects/usa-map-navigation-using-advanced-algorithms)
   * Under supervision of Prof. Garg
 * [**Evaluating Clingo ASP Solver**](https://razaviah.github.io/projects/evaluating-clingo-asp-solver)
   * Under supervision of Prof. Lesperance
