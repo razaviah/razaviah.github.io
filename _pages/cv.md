@@ -42,7 +42,7 @@ Research and Academic Experiences
   * Under supervision of Prof. Garg
 * **USA Map Navigation using Advanced Algorithms**
   * Under supervision of Prof. Garg
-* **Evaluating Clingo ASP Solver**
+* [**Evaluating Clingo ASP Solver**](https://razaviah.github.io/projects/evaluating-clingo-asp-solver)
   * Under supervision of Prof. Lesperance
 * [**Social Network Influencer Ranking Based On Link Analysis**](https://razaviah.github.io/projects/social-network-influencer-ranking-based-on-link-analysis)
   * Under supervision of Prof. Papagelis
