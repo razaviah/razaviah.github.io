@@ -34,7 +34,7 @@ Research and Academic Experiences
 ======
 * [**Dataset Generation, and Evaluation for Natural Question Generation**](https://razaviah.github.io/projects/dataset-generation-and-evaluation-for-natural-question-generation)
   * Under supervision of Prof. An (Capstone Project)
-* **Enhancing Customer Insights in Wholesale Distribution**
+* [**Enhancing Customer Insights in Wholesale Distribution**](https://razaviah.github.io/projects/enhancing-customer-insights-in-wholesale-distribution)
   * Under supervision of Prof. Garg
 * **Exploring Red Wine Quality through Data Science**
   * Under supervision of Prof. Garg
