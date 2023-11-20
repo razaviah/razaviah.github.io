@@ -38,4 +38,4 @@ This project demonstrates the effective use of Apache Flink, Kafka, and deep lea
 
 
 ## Link To The Project
-You can view the github page of this project using this <a href="https://github.com/razaviah/Real-Time-Time-Series-Data-Prediction" target="_blank">link</a>
+Github page of this project can be viewed using this <a href="https://github.com/razaviah/Real-Time-Time-Series-Data-Prediction" target="_blank">link</a>

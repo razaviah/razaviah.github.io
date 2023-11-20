@@ -41,7 +41,7 @@ The project evaluation focused on:
 The project successfully analyzed the wholesale distributor's customer data, providing valuable insights into customer behaviors and segmentation. The implementation of advanced data analysis techniques, such as clustering and machine learning classifiers, highlighted the potential of data-driven approaches in understanding customer dynamics in the wholesale industry.
 
 ## Project Jupyter Notebook
-You can view the project's jupyter notebook via this <a href="https://github.com/razaviah/Enhancing-Customer-Insights-in-Wholesale-Distribution/blob/main/Enhancing-Customer-Insights-in-Wholesale-Distribution.ipynb" target="_blank">link</a>
+Project's jupyter notebook can be viewed via this <a href="https://github.com/razaviah/Enhancing-Customer-Insights-in-Wholesale-Distribution/blob/main/Enhancing-Customer-Insights-in-Wholesale-Distribution.ipynb" target="_blank">link</a>
 
 Or, you can view the text representation of it as follows:
 
