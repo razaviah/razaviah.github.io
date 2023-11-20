@@ -4,7 +4,7 @@ title: "Advanced Four in a Row Game Simulation"
 author_profile: true
 ---
 
-**Supervisor:** Prof. Garg
+**Supervisor:** Prof. Garg  
 **Type:** Academic Project (Artificial Intelligence, AI Agents)
 
 ## Overview
