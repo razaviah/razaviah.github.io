@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 **Supervisor:** Prof. Papagelis  
-**Type:** Academic Project
+**Type:** Academic Project (Network Analysis)
 
 ## Overview
 This capstone project, under the supervision of Prof. Papagelis, explores the application of link analysis methods, like PageRank and weighted PageRank, to rank influencers on social networking services. It focuses on the burgeoning field of digital marketing and online communication, aiming to provide a systematic approach to measuring the influence and reach of key SNS personalities.

@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 **Supervisor:** Prof. Lesperance  
-**Type:** Academic Project
+**Type:** Academic Project (Artificial Intelligence)
 
 ## Overview
 This project, under the supervision of Prof. Lesperance, focused on evaluating the Clingo Answer Set Programming (ASP) Solver. The Clingo ASP system is designed for grounding and solving logic-based problems, widely applicable in combinatorial problem-solving across various computer science domains.

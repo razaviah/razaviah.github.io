@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 **Supervisor:** Prof. An  
-**Type:** Capstone Project
+**Type:** Academic Project (Capstone Project, NLP, NQG)
 
 ## Overview
 This capstone project focuses on developing and evaluating a novel dataset for natural question generation (NQG). Aimed at bridging the gap in sentence-based natural question answering datasets, this project utilizes state-of-the-art NLP models, including BART and T5, to generate and validate a dataset conducive to practical NQG applications.

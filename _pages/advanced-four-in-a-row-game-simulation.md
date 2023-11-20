@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 **Supervisor:** Prof. Garg
-**Type:** Academic Project
+**Type:** Academic Project (Artificial Intelligence, AI Agents)
 
 ## Overview
 This project, led by Prof. Garg, involved designing agents for the two-player board game 'Four in a Row'. The game's objective is to be the first to form a line of four discs in a vertical, horizontal, or diagonal arrangement on a seven-column, six-row grid. This project required implementing three specific algorithms for the game's AI agents.

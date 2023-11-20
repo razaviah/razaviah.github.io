@@ -4,7 +4,7 @@ title: "Exploring Red Wine Quality Through Data Science"
 author_profile: true
 ---
 
-**Supervisor:** Prof. Garg 
+**Supervisor:** Prof. Garg  
 **Type:** Academic Project (Data Science, Machine Learning)
 
 ## Overview

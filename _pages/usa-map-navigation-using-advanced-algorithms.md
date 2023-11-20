@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 **Supervisor:** Prof. Garg  
-**Type:** Academic Project
+**Type:** Academic Project (Artificial Intelligence)
 
 ## Overview
 This project, under the guidance of Prof. Garg, was aimed at implementing and evaluating four search algorithms (UCS, BFS, DFS, and A-Star Search) using Python. The objective was to find paths between any two locations on a USA map, leveraging these algorithms for efficient route finding.

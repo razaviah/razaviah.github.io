@@ -4,8 +4,8 @@ title: "Enhancing Customer Insights in Wholesale Distribution"
 author_profile: true
 ---
 
-**Supervisor:** Prof. Garg
-**Type:** Academic Project
+**Supervisor:** Prof. Garg  
+**Type:** Academic Project (Data Analysis, Machine Learning)
 
 ## Overview
 This project, under the supervision of Prof. Garg, focused on analyzing the data of clients of a wholesale distributor. The goal was to describe the variation in the different types of customers by analyzing their annual spending across various product categories.
