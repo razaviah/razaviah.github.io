@@ -98,8 +98,8 @@ References
 * Others available upon request -->
 
 
-You can view my CV from the below window:
+My CV can be viewed from the below window:
 
 <iframe src="https://docs.google.com/viewer?embedded=true&url=https://raw.githubusercontent.com/razaviah/razaviah.github.io/master/files/Amirhossein_Razavi_CV.pdf" width="100%" height="700px" style="border:3px solid black;"></iframe>
 
-Or, you can download it via this <a href="https://raw.githubusercontent.com/razaviah/razaviah.github.io/master/files/Amirhossein_Razavi_CV.pdf" target="_blank">link</a>
+Or, can be downloaded via this <a href="https://raw.githubusercontent.com/razaviah/razaviah.github.io/master/files/Amirhossein_Razavi_CV.pdf" target="_blank">link</a>
