@@ -68,11 +68,6 @@ optimum number of clusters
 first 2 components and by first 4 components and visualize the clusters in the data
 - Implement XGBoost Classifier with 5 Fold CV and report the performance metrics
 
-**Submission Instructions**: Please just submit one jupyter notebook containing all the code and make use
-of markdown cells to include the comments, answers, reasoning, analysis, etc.
-
-**Note: Name of your file should be your “Project2-id_Firstname_Lastname.ipynb”**
-
 # Exploratory Data Analysis
 
 ## Reading the Data

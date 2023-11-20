@@ -36,7 +36,7 @@ Research and Academic Experiences
   * Under supervision of Prof. An (Capstone Project)
 * [**Enhancing Customer Insights in Wholesale Distribution**](https://razaviah.github.io/projects/enhancing-customer-insights-in-wholesale-distribution)
   * Under supervision of Prof. Garg
-* **Exploring Red Wine Quality through Data Science**
+* [**Exploring Red Wine Quality through Data Science**](https://razaviah.github.io/projects/exploring-red-wine-quality-through-data-science)
   * Under supervision of Prof. Garg
 * [**Advanced Four in a Row Game Simulation**](https://razaviah.github.io/projects/advanced-four-in-a-row-game-simulation)
   * Under supervision of Prof. Garg
