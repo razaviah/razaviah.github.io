@@ -74,7 +74,8 @@ Single line blockquote:
 ## Definition Lists
 
 Definition List Title
-:   Definition list division.
+:   Project Supervisor: Prof. An
+:   Project Type: Academic PRoject (NLP, NQG, ML)
 
 Startup
 :   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
