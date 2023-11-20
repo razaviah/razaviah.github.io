@@ -11,7 +11,7 @@ redirect_from:
 <a href="https://razaviah.github.io/projects/dataset-generation-and-evaluation-for-natural-question-generation" target="_blank">Dataset Generation, and Evaluation for Natural Question Generation</a>
 :   **Supervisor:** Prof. An
 :   **Type:** Academic Project (Capstone Project, NLP, NQG)
-:   
+:    
 :   This project aimed to create and evaluate a new dataset for natural question generation, emphasizing the practical use of natural-sounding questions in real-world applications. Utilizing state-of-the-art NLP models like BART and T5, the project focused on generating and validating a dataset that effectively aids in natural question generation tasks.
 
 <a href="https://razaviah.github.io/projects/enhancing-customer-insights-in-wholesale-distribution" target="_blank">Enhancing Customer Insights in Wholesale Distribution</a>
