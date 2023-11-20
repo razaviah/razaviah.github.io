@@ -8,7 +8,7 @@ redirect_from:
 
 ## Academic Projects
 
-[Dataset Generation, and Evaluation for Natural Question Generation](https://razaviah.github.io/projects/dataset-generation-and-evaluation-for-natural-question-generation)
+<a href="https://razaviah.github.io/projects/dataset-generation-and-evaluation-for-natural-question-generation" target="_blank">Dataset Generation, and Evaluation for Natural Question Generation</a>
 :   Supervisor: Prof. An
 :   Type: Academic Project (Capstone Project, NLP, NQG)
 :
