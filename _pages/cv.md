@@ -49,7 +49,7 @@ Research and Academic Experiences
 
 Personal Projects
 ======
-* **Real-Time Time Series Data Prediction (Under Development)**
+* [**Real-Time Time Series Data Prediction (Under Development)**](https://razaviah.github.io/projects/real-time-time-series-data-prediction)
 * **TTC Real-Time Bus Tracking System**
 * **Automated Data Pipeline for Transaction Analysis**
 
