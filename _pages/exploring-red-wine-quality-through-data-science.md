@@ -37,7 +37,7 @@ The evaluation of the models involved:
 This project showcased the effectiveness of data science techniques in analyzing and predicting red wine quality. The use of advanced modeling approaches provided valuable insights into the factors influencing wine quality and demonstrated the potential of machine learning in the food and beverage industry.
 
 ## Project Jupyter Notebook
-You can view the project's jupyter notebook via this [link](https://github.com/razaviah/Exploring-Red-Wine-Quality-Through-Data-Science/blob/main/Exploring-Red-Wine-Quality-Through-Data-Science.ipynb)
+You can view the project's jupyter notebook via this <a href="https://github.com/razaviah/Exploring-Red-Wine-Quality-Through-Data-Science/blob/main/Exploring-Red-Wine-Quality-Through-Data-Science.ipynb" target="_blank">link</a>
 
 Or, you can view the text representation of it as follows:
 

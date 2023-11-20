@@ -37,4 +37,4 @@ Evaluation of the project was conducted through:
 This project achieved its aim of creating sophisticated AI agents for 'Four in a Row', demonstrating the effectiveness of advanced algorithms in game strategy development and AI decision-making. The project showcased the potential of AI in enhancing gameplay complexity and providing challenging and engaging experiences for players.
 
 ## Link To The Project
-You can view the github page of this project using this [link](https://github.com/razaviah/Advanced-Four-in-a-Row-Game-Simulation)
+You can view the github page of this project using this <a href="https://github.com/razaviah/Advanced-Four-in-a-Row-Game-Simulation" target="_blank">link</a>
