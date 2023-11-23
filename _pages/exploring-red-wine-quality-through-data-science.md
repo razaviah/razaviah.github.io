@@ -40,8 +40,11 @@ This project showcased the effectiveness of data science techniques in analyzing
 Project's jupyter notebook can be viewed via this <a href="https://github.com/razaviah/Exploring-Red-Wine-Quality-Through-Data-Science/blob/main/Exploring-Red-Wine-Quality-Through-Data-Science.ipynb" target="_blank">link</a>
 
 Or, you can view the text representation of it as follows:
+<details>
+  <summary>Click to View Notebook</summary>
+  <pre><code>
 
-### Exploring Red Wine Quality Through Data Science
+## Exploring Red Wine Quality Through Data Science
 
 <img src="https://media.giphy.com/media/jRuv9xc10lVyE/giphy.gif">
 
@@ -51,26 +54,26 @@ You can read more about the Data Science Methodology from this [IBM whitepaper](
 
 <img src="https://media-exp1.licdn.com/dms/image/C4D12AQGOPVf5iqhhwQ/article-inline_image-shrink_1000_1488/0/1597756152693?e=1652918400&v=beta&t=iKZ2jX3khsx11lD9JyZWDz-j-Gt2hZsKPXz5rZ0iE1M">
 
-#### Business Understanding
+### Business Understanding
 
 The red wine industry shows a recent exponential growth as social drinking is on the rise. Nowadays, industry players are using product quality certifications to promote their products. This is a time-consuming process and requires the assessment given by human experts, which makes this process very expensive. Also, the price of red wine depends on a rather abstract concept of wine appreciation by wine tasters, opinion among whom may have a high degree of variability. Another vital factor in red wine certification and quality assessment is physicochemical tests, which are laboratory-based and consider factors like acidity, pH level, sugar, and other chemical properties. The red wine market would be of interest if the human quality of tasting can be related to wine’s chemical properties so that certification and quality assessment and assurance processes are more controlled. 
 
 The goal is to implement Regression Models and Classification Models on the Red Wine Quality Dataset to determine which features are the best quality red wine indicators and generate insights into each of these factors to our model’s red wine quality.
 
-#### Analytic Approach
+### Analytic Approach
 Based on the above business understanding one should decide the analytical approach to follow. The approaches can be of 4 types: Descriptive approach (current status and information provided), Diagnostic approach(a.k.a statistical analysis, what is happening and why it is happening), Predictive approach(it forecasts on the trends or future events probability) and Prescriptive approach( how the problem should be solved actually).
 
 **Q1. What is the analytical approach that you would take for this project? Why do you think its the right approach?**
 
 *I would take Descriptive approach as we yet do not know what information are useful and have high impact on our wine quality. We are just presented with the raw data and descriptive approach would enable us to have an understanding of the potential relationships between variables and also helps us to present the data in a more meaningful way. After our analysis is finished, we would do the modellings.*
 
-#### Data Requirements
+### Data Requirements
 
 **Q2. What kind of data do we require for predicting the red wine quality and for determining the features that are the best quality red wine indicators?**
 
 *We need a data which has many features like the physiochemical attributes (acidity, pH level, sugar, etc) so that we would have enough features to play around with to determine the features that are the best quality red wine indicators.*
 
-#### Data Collection
+### Data Collection
 
 **Q3. From where do we get our data?**
 
@@ -83,7 +86,7 @@ Based on the above business understanding one should decide the analytical appro
 
 *and is accessible on UCI ML repository via this link https://archive.ics.uci.edu/ml/datasets/wine+quality*
 
-#### Data Understanding
+### Data Understanding
 
 Link for the dataset https://archive.ics.uci.edu/ml/datasets/wine+quality for context
 
@@ -380,9 +383,9 @@ for i, col in enumerate(list(wine.drop('quality', axis=1).columns)):
     
 
 
-#### Data Preparation
+### Data Preparation
 
-##### Explore the dataset further
+#### Explore the dataset further
 *TODO*
 <li>Check for missing values and handle if any</li>
 <li>Check for outliers if any and handle them</li>
@@ -732,7 +735,7 @@ X_train = scaler.fit_transform(X_train)
 X_test = scaler.transform(X_test)
 ```
 
-#### Modeling
+### Modeling
 
 <li>Implement Multivariable Linear Regression using any 2 Regression algorithms of your choice</li>
 <li>Implement a Neural Network using Tensorflow and Keras to classify wine quality</li>
@@ -1217,7 +1220,7 @@ history = nnModel.fit(X_train, y_train_nn, batch_size=128, epochs=200, verbose=1
     10/10 [==============================] - 0s 5ms/step - loss: 0.9304 - accuracy: 0.6052 - val_loss: 0.9355 - val_accuracy: 0.5938
 
 
-#### Model Evaluation
+### Model Evaluation
 
 Evaluating the model accuracy is an essential part of the process in creating machine learning models to describe how well the model is performing in its predictions. Evaluation metrics change according to the problem type. Here, we'll briefly learn how to check the accuracy of the regression model.
 
@@ -1255,7 +1258,7 @@ Find more about feature importances from here: https://machinelearningmastery.co
 <li> Plot training accuracy and validation accuracy </li>
 <li> Evaluate the classsification model using Precision, Recall and Accuracy metrics </li>
 
-##### Evaluation of Regression models
+#### Evaluation of Regression models
 
 The Random Forest model has better scores in all of the R^2, RMSE, and MAE than the Gradient Boosting model as it is shown below. Random Forest model has R^2 of 0.53 whereas the Gradient Boosting model's R^2 is 0.49 (the higher, the better). Random forest has RMSE and MAE of 0.56, and 0.42, respectively, whereas the Gradient Boosting model has RMSE and MAE of 0.58, and 0.45 (the lower, the better).
 
@@ -1359,7 +1362,7 @@ pyplot.show()
     
 
 
-##### Evaluation of Classification model
+#### Evaluation of Classification model
 
 As we can see from the below graphs, our Neural Network performs how it should perform meaning that our model did not overfit, or underfit the training data and we have almost the same accuracy scores for both of train and test sets. The training loss and test loss are the same too meaning that the model's loss would be around the same for the unseen data.
 
@@ -1422,7 +1425,7 @@ print('Recall: %f' % recall)
     Recall: 0.593750
 
 
-#### Conclusion
+### Conclusion
 
 The scores of our regression models:
 - Random Forest scores: 
@@ -1441,3 +1444,5 @@ The scores of our classification model (NN):
 - Recall: 0.59
 
 By comparing the performance scores, we can conclude that the Neural Network model performs much better than the other two regression models. Since the `wine quality` dataset contains lots of features and moderate correlations between many of the features, the relationships between different attributes of the dataset is hard to obtain and regression models are not good at finding complex relationships. But, the Neural Network models can be very useful to obtain these relationships as they are very good at very complex tasks. However, the Neural Network models need a very large amount of data which we do not have and due to that our classification model's performance scores were not as high as it could have been. 
+  </code></pre>
+</details>
