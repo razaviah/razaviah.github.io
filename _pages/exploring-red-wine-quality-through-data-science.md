@@ -44,7 +44,7 @@ Or, you can view the text representation of it as follows:
 <details>
   <summary>Click to expand!</summary>
 
-  ## Exploring Red Wine Quality Through Data Science
+## Exploring Red Wine Quality Through Data Science
 
   <img src="https://media.giphy.com/media/jRuv9xc10lVyE/giphy.gif">
 
