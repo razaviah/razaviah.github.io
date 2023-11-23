@@ -68,3 +68,10 @@ redirect_from:
 :   **Type:** Personal Project (Data Engineering, Batch Data Processing)
 :   
 :   This project automates the extraction of transaction data into a cloud-based storage system, followed by its transformation using a scalable compute service. Post-transformation, the data is stored for further analysis and visualized using a business intelligence tool, enabling detailed reporting and analysis of transactional data.
+
+
+<details>
+  <summary>Click to expand!</summary>
+  
+  Here is some hidden content!
+</details>
