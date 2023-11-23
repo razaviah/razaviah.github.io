@@ -36,13 +36,10 @@ The evaluation of the models involved:
 ## Conclusion
 This project showcased the effectiveness of data science techniques in analyzing and predicting red wine quality. The use of advanced modeling approaches provided valuable insights into the factors influencing wine quality and demonstrated the potential of machine learning in the food and beverage industry.
 
-## Project Jupyter Notebook
+# Project's Jupyter Notebook
 Project's jupyter notebook can be viewed via this <a href="https://github.com/razaviah/Exploring-Red-Wine-Quality-Through-Data-Science/blob/main/Exploring-Red-Wine-Quality-Through-Data-Science.ipynb" target="_blank">link</a>
 
 Or, you can view the text representation of it as follows:
-<details>
-  <summary>Click to View Notebook</summary>
-  <pre><code>
 
 ## Exploring Red Wine Quality Through Data Science
 
@@ -1444,5 +1441,3 @@ The scores of our classification model (NN):
 - Recall: 0.59
 
 By comparing the performance scores, we can conclude that the Neural Network model performs much better than the other two regression models. Since the `wine quality` dataset contains lots of features and moderate correlations between many of the features, the relationships between different attributes of the dataset is hard to obtain and regression models are not good at finding complex relationships. But, the Neural Network models can be very useful to obtain these relationships as they are very good at very complex tasks. However, the Neural Network models need a very large amount of data which we do not have and due to that our classification model's performance scores were not as high as it could have been. 
-  </code></pre>
-</details>
