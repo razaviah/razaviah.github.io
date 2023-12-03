@@ -38,11 +38,9 @@ View the detailed project report below (if the file is not showing up, please re
 
 <iframe src="https://docs.google.com/viewer?embedded=true&url=https://raw.githubusercontent.com/razaviah/razaviah.github.io/master/files/EECS4088-Final-Project-Report.pdf" width="100%" height="700px" style="border:3px solid black;"></iframe>
 
-Or, download it via this <a href="https://raw.githubusercontent.com/razaviah/razaviah.github.io/master/files/EECS4088-Final-Project-Report.pdf" target="_blank">link</a>
 
 ## Project Slides
-View the slides created for this project below:
+
+View the slides created for this project below (if the file is not showing up, please refresh the page or <a href="https://raw.githubusercontent.com/razaviah/razaviah.github.io/master/files/EECS4088-Final-Project-Presentation-Slides.pdf" target="_blank">download the slides here</a>):
 
 <iframe src="https://docs.google.com/viewer?embedded=true&url=https://raw.githubusercontent.com/razaviah/razaviah.github.io/master/files/EECS4088-Final-Project-Presentation-Slides.pdf" width="100%" height="700px" style="border:3px solid black;"></iframe>
-
-Or, download it via this <a href="https://raw.githubusercontent.com/razaviah/razaviah.github.io/master/files/EECS4088-Final-Project-Presentation-Slides.pdf" target="_blank">link</a>
