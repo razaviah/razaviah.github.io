@@ -34,7 +34,7 @@ This capstone project focuses on developing and evaluating a novel dataset for n
 The project represents a significant step in NQG, offering a robust dataset and insights into model evaluations, paving the way for future research in NLP.
 
 ## Project Report
-View the detailed project report below:
+View the detailed project report below (if the file is not showing up, please refresh the page or [download the report here](https://raw.githubusercontent.com/razaviah/razaviah.github.io/master/files/EECS4088-Final-Project-Report.pdf)):
 
 <iframe src="https://docs.google.com/viewer?embedded=true&url=https://raw.githubusercontent.com/razaviah/razaviah.github.io/master/files/EECS4088-Final-Project-Report.pdf" width="100%" height="700px" style="border:3px solid black;"></iframe>
 
