@@ -34,15 +34,13 @@ This capstone project, under the supervision of Prof. Papagelis, explores the ap
 The project successfully demonstrates the applicability of link analysis algorithms in the context of social media, providing a new perspective on influencer ranking in digital marketing.
 
 ## Project Report
-View the detailed project report below:
+
+View the detailed project report below (if the file is not showing up, please refresh the page or <a href="https://raw.githubusercontent.com/razaviah/razaviah.github.io/master/files/EECS4414_Final_Project_Report.pdf" target="_blank">download the report here</a>):
 
 <iframe src="https://docs.google.com/viewer?embedded=true&url=https://raw.githubusercontent.com/razaviah/razaviah.github.io/master/files/EECS4414_Final_Project_Report.pdf" width="100%" height="700px" style="border:3px solid black;"></iframe>
 
-Or, download it via this <a href="https://raw.githubusercontent.com/razaviah/razaviah.github.io/master/files/EECS4414_Final_Project_Report.pdf" target="_blank">link</a>
-
 ## Project Slides
-View the slides created for this project below:
+
+View the slides created for this project below (if the file is not showing up, please refresh the page or <a href="https://raw.githubusercontent.com/razaviah/razaviah.github.io/master/files/EECS4414_Final_Project_Presentation_Slides.pdf" target="_blank">download the slides here</a>):
 
 <iframe src="https://docs.google.com/viewer?embedded=true&url=https://raw.githubusercontent.com/razaviah/razaviah.github.io/master/files/EECS4414_Final_Project_Presentation_Slides.pdf" width="100%" height="700px" style="border:3px solid black;"></iframe>
-
-Or, download it via this <a href="https://raw.githubusercontent.com/razaviah/razaviah.github.io/master/files/EECS4414_Final_Project_Presentation_Slides.pdf" target="_blank">link</a>
