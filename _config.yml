@@ -83,9 +83,9 @@ author:
   name             : "Amirhossein Razavi"
   avatar           : "amirhossein_profile_pic.png"
   bio              : | 
-    First-year MASc Student at Toronto Metropolitan University
+    Second-year MASc Student at Toronto Metropolitan University
   location         : "Toronto, Ontario"
-  employer         :
+  employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=AaaHZjkAAAAJ&hl=en&oi=sra"
   email            : amirhossein.razavi@torontomu.ca
@@ -104,7 +104,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : razaviah/
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "http://https://orcid.org/my-orcid?orcid=0009-0007-7052-5100"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
