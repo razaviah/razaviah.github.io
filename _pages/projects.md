@@ -15,33 +15,33 @@ redirect_from:
 :   
 :   This project aimed to create and evaluate a new dataset for natural question generation, emphasizing the practical use of natural-sounding questions in real-world applications. Utilizing state-of-the-art NLP models like BART and T5, the project focused on generating and validating a dataset that effectively aids in natural question generation tasks.
 
-<a href="https://razaviah.github.io/projects/enhancing-customer-insights-in-wholesale-distribution" target="_blank">Enhancing Customer Insights in Wholesale Distribution</a>
+<!-- <a href="https://razaviah.github.io/projects/enhancing-customer-insights-in-wholesale-distribution" target="_blank">Enhancing Customer Insights in Wholesale Distribution</a>
 :   **Supervisor:** Prof. Garg
 :   **Type:** Academic Project (Data Analysis, Machine Learning)
 :   **Project Materials:** Includes Jupyter Notebook
 :   
-:   Focusing on a wholesale distributor's client data, this project employs advanced techniques like EDA, KMeans clustering, and PCA for deep customer behavior analysis. It explores feature scaling methods and RFECV for feature optimization, and leverages XGBoost for predictive modeling, offering a comprehensive view of customer segmentation in wholesale distribution.
+:   Focusing on a wholesale distributor's client data, this project employs advanced techniques like EDA, KMeans clustering, and PCA for deep customer behavior analysis. It explores feature scaling methods and RFECV for feature optimization, and leverages XGBoost for predictive modeling, offering a comprehensive view of customer segmentation in wholesale distribution. -->
 
-<a href="https://razaviah.github.io/projects/exploring-red-wine-quality-through-data-science" target="_blank">Exploring Red Wine Quality through Data Science</a>
+<!-- <a href="https://razaviah.github.io/projects/exploring-red-wine-quality-through-data-science" target="_blank">Exploring Red Wine Quality through Data Science</a>
 :   **Supervisor:** Prof. Garg
 :   **Type:** Academic Project (Data Science, Machine Learning)
 :   **Project Materials:** Includes Jupyter Notebook
 :   
-:   This project applies regression and classification models on the Red Wine Quality Dataset to uncover the key chemical factors that indicate quality. It aims to bridge the gap between subjective human tasting and objective chemical analysis, providing insights into wine quality assessment.
+:   This project applies regression and classification models on the Red Wine Quality Dataset to uncover the key chemical factors that indicate quality. It aims to bridge the gap between subjective human tasting and objective chemical analysis, providing insights into wine quality assessment. -->
 
-<a href="https://razaviah.github.io/projects/advanced-four-in-a-row-game-simulation" target="_blank">Advanced Four in a Row Game Simulation</a>
+<!-- <a href="https://razaviah.github.io/projects/advanced-four-in-a-row-game-simulation" target="_blank">Advanced Four in a Row Game Simulation</a>
 :   **Supervisor:** Prof. Garg
 :   **Type:** Academic Project (Artificial Intelligence, AI Agents)
 :   **Project Materials:** Includes GitHub Repository Link
 :   
-:   This project combines GUI development with AI strategy implementation for 'Four in a Row'. It features an intuitive graphical interface and robust AI agents, designed using algorithms like minimax and alpha-beta pruning, to simulate an immersive and strategic board game environment.
+:   This project combines GUI development with AI strategy implementation for 'Four in a Row'. It features an intuitive graphical interface and robust AI agents, designed using algorithms like minimax and alpha-beta pruning, to simulate an immersive and strategic board game environment. -->
 
-<a href="https://razaviah.github.io/projects/usa-map-navigation-using-advanced-algorithms" target="_blank">USA Map Navigation using Advanced Algorithms</a>
+<!-- <a href="https://razaviah.github.io/projects/usa-map-navigation-using-advanced-algorithms" target="_blank">USA Map Navigation using Advanced Algorithms</a>
 :   **Supervisor:** Prof. Garg
 :   **Type:** Academic Project (Artificial Intelligence)
 :   **Project Materials:** Includes GitHub Repository Link
 :   
-:   This project showcases the implementation of Uniform Cost Search, Breadth-First Search, Depth-First Search, and A-Star Search to navigate a USA road network. It demonstrates the effectiveness of these algorithms in optimizing routes between cities, offering insights into algorithmic efficiency and geographic problem-solving.
+:   This project showcases the implementation of Uniform Cost Search, Breadth-First Search, Depth-First Search, and A-Star Search to navigate a USA road network. It demonstrates the effectiveness of these algorithms in optimizing routes between cities, offering insights into algorithmic efficiency and geographic problem-solving. -->
 
 <a href="https://razaviah.github.io/projects/evaluating-clingo-asp-solver" target="_blank">Evaluating Clingo ASP Solver</a>
 :   **Supervisor:** Prof. Lesperance
