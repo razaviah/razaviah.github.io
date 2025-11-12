@@ -58,12 +58,12 @@ redirect_from:
 :   This project explores the application of link analysis methods, such as PageRank and weighted PageRank, to rank influencers on social networking services. Focusing on the burgeoning field of digital marketing and online communication, it aims to provide a systematic approach to measuring the influence and reach of key SNS personalities.
 
 ## Personal Projects
-<a href="https://razaviah.github.io/projects/real-time-time-series-data-prediction" target="_blank">Real-Time Time Series Data Prediction (Under Development)</a>
+<!-- <a href="https://razaviah.github.io/projects/real-time-time-series-data-prediction" target="_blank">Real-Time Time Series Data Prediction (Under Development)</a>
 :   **Supervisor:** N/A
 :   **Type:** Personal Project (Data Engineering, Deep Learning, Real-Time Data Processing)
 :   **Project Materials:** Includes GitHub Repository Link
 :   
-:   This project, currently in progress, utilizes Apache Flink, Kafka, and deep learning to analyze and predict trends in time series data. In the model research phase, its goal is to dynamically integrate live data for immediate, accurate forecasting, advancing the field of real-time data analysis.
+:   This project, currently in progress, utilizes Apache Flink, Kafka, and deep learning to analyze and predict trends in time series data. In the model research phase, its goal is to dynamically integrate live data for immediate, accurate forecasting, advancing the field of real-time data analysis. -->
 
 <a href="https://razaviah.github.io/projects/ttc-real-time-bus-tracking-system" target="_blank">TTC Real-Time Bus Tracking System</a>
 :   **Supervisor:** N/A
