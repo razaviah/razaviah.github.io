@@ -8,11 +8,21 @@ redirect_from:
 
 ## Academic Projects
 
+
+<a href="https://razaviah.github.io/projects/query-performance-prediction-via-llm-generated-query-variations" target="_blank">Query Performance Prediction via LLM-Generated Query Variations</a>
+:   **Supervisor:** Prof. Ensan
+:   **Type:** Information Retrieval (IR), Natural Language Processing (NLP)
+:   **Project Materials:** Includes Project Report and GitHub Repository
+:
+:   This project explores Query Performance Prediction (QPP) through Large Language Model–generated query variations. Instead of embedding-space perturbations like ADG-QPP, it uses LLMs (LLaMA 3.1) to produce semantically equivalent queries evaluated with BM25 retrieval. The approach offers interpretable, natural-language robustness estimation and achieves strong correlation performance especially on challenging queries showing LLM based QPP as a viable alternative to dense methods.
+
+
+
 <a href="https://razaviah.github.io/projects/dataset-generation-and-evaluation-for-natural-question-generation" target="_blank">Dataset Generation, and Evaluation for Natural Question Generation</a>
 :   **Supervisor:** Prof. An
-:   **Type:** Academic Project (Capstone Project, NLP, NQG)
-:   **Project Materials:** Includes Project Report and Slides
-:   
+:   **Type:** Capstone Project, Natural Language Processing (NLP), Natural Question Generation (NQG)
+:   **Project Materials:** Includes Project Report, Slides, and GitHub Repository
+:
 :   This project aimed to create and evaluate a new dataset for natural question generation, emphasizing the practical use of natural-sounding questions in real-world applications. Utilizing state-of-the-art NLP models like BART and T5, the project focused on generating and validating a dataset that effectively aids in natural question generation tasks.
 
 <!-- <a href="https://razaviah.github.io/projects/enhancing-customer-insights-in-wholesale-distribution" target="_blank">Enhancing Customer Insights in Wholesale Distribution</a>
@@ -43,16 +53,16 @@ redirect_from:
 :   
 :   This project showcases the implementation of Uniform Cost Search, Breadth-First Search, Depth-First Search, and A-Star Search to navigate a USA road network. It demonstrates the effectiveness of these algorithms in optimizing routes between cities, offering insights into algorithmic efficiency and geographic problem-solving. -->
 
-<a href="https://razaviah.github.io/projects/evaluating-clingo-asp-solver" target="_blank">Evaluating Clingo ASP Solver</a>
+<!-- <a href="https://razaviah.github.io/projects/evaluating-clingo-asp-solver" target="_blank">Evaluating Clingo ASP Solver</a>
 :   **Supervisor:** Prof. Lesperance
 :   **Type:** Academic Project (Artificial Intelligence)
 :   **Project Materials:** Includes Project Report and Slides
 :   
-:   This project delves into the capabilities of the Clingo Answer Set Programming system, exploring its effectiveness in handling and solving complex combinatorial and logic-based problems. The focus is on assessing Clingo's modelling language and problem-solving approach, demonstrating its application in various computational scenarios.
+:   This project delves into the capabilities of the Clingo Answer Set Programming system, exploring its effectiveness in handling and solving complex combinatorial and logic-based problems. The focus is on assessing Clingo's modelling language and problem-solving approach, demonstrating its application in various computational scenarios. -->
 
 <a href="https://razaviah.github.io/projects/social-network-influencer-ranking-based-on-link-analysis" target="_blank">Social Network Influencer Ranking Based On Link Analysis</a>
 :   **Supervisor:** Prof. Papagelis
-:   **Type:** Academic Project (Network Analysis)
+:   **Type:** Network Analysis
 :   **Project Materials:** Includes Project Report and Slides
 :   
 :   This project explores the application of link analysis methods, such as PageRank and weighted PageRank, to rank influencers on social networking services. Focusing on the burgeoning field of digital marketing and online communication, it aims to provide a systematic approach to measuring the influence and reach of key SNS personalities.
@@ -67,14 +77,14 @@ redirect_from:
 
 <a href="https://razaviah.github.io/projects/ttc-real-time-bus-tracking-system" target="_blank">TTC Real-Time Bus Tracking System</a>
 :   **Supervisor:** N/A
-:   **Type:** Personal Project (Data Engineering, Real-Time Data Processing)
+:   **Type:** Data Engineering, Real-Time Data Processing
 :   **Project Materials:** N/A
 :   
 :   This project develops a real-time application for tracking TTC buses using GPS data from IoT devices. It harnesses Apache NiFi, Kafka, Spark Structured Streaming, and other technologies to process live data, aiming to optimize TTC bus routes.
 
 <a href="https://razaviah.github.io/projects/automated-data-pipeline-for-transaction-analysis" target="_blank">Automated Data Pipeline for Transaction Analysis</a>
 :   **Supervisor:** N/A
-:   **Type:** Personal Project (Data Engineering, Batch Data Processing)
+:   **Type:** Data Engineering, Batch Data Processing
 :   **Project Materials:** N/A
 :   
 :   This project automates the extraction of transaction data into a cloud-based storage system, followed by its transformation using a scalable compute service. Post-transformation, the data is stored for further analysis and visualized using a business intelligence tool, enabling detailed reporting and analysis of transactional data.
