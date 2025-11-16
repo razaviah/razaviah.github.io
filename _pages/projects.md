@@ -10,7 +10,7 @@ redirect_from:
 
 <a href="https://razaviah.github.io/projects/benchmarking-prompt-sensitivity-in-large-language-models" target="_blank">Benchmarking Prompt Sensitivity in Large Language Models</a>
 :   **Supervisor:** Prof. Bagheri
-:   **Type:** Research Publication, Natural Language Processing (NLP), Large Language Models (LLMs)
+:   **Type:** Research Publication, Natural Language Processing (NLP), Information Retrieval (IR)
 :   **Project Materials:** Includes Research Paper, Poster, and GitHub Repository
 :   
 :   This research introduces the Prompt Sensitivity Prediction task and PromptSET dataset, investigating how slight variations in prompt formulation impact LLM performance. Using 11,469 prompts with 9 variations each from TriviaQA and HotpotQA datasets, the study benchmarks multiple approaches including LLM self-evaluation, text classification, and query performance prediction methods. Findings reveal that existing methods struggle with prompt sensitivity prediction, highlighting the need for specialized approaches to help users craft more reliable prompts.

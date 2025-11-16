@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 **Supervisor:** Prof. Bagheri   
-**Type:** Research Publication, Natural Language Processing (NLP), Large Language Models (LLMs)
+**Type:** Research Publication, Natural Language Processing (NLP), Information Retrieval (IR)
 
 ## Overview
 This research introduces a novel task, Prompt Sensitivity Prediction, and presents PromptSET, a comprehensive dataset designed to investigate how slight variations in prompt formulation impact Large Language Model (LLM) performance. The work addresses a critical challenge in LLM deployment: their high sensitivity to minor changes in wording, structure, or punctuation of prompts, which can lead to substantially different outputs even when the underlying information need remains unchanged.
@@ -66,7 +66,6 @@ Even when both LLMs failed on the original prompt, alternative variations enable
 3. **Benchmark Analysis:** Demonstrated that existing methods from related tasks struggle with prompt sensitivity prediction, underscoring the need for specialized approaches
 
 ## Technical Implementation
-- **Programming Language:** Python (87.3%)
 - **Models:** LLaMA 3.1 (8B parameters), Mistral-nemo
 - **Frameworks:** PyTorch/Transformers for model implementations
 - **Evaluation:** BERT-based classification, similarity metrics using MiniLM
@@ -80,12 +79,12 @@ This research reveals fundamental limitations in current LLMs' ability to consis
 - Potential for training more robust models less sensitive to superficial prompt variations
 
 ## Publication Details
-**Paper:** Benchmarking prompt sensitivity in large language models
-**Conference:**  European Conference on Information Retrieval, 2025 (ECIR 2025)
-**Authors:** Amirhossein Razavi, Mina Soltangheis, Negar Arabzadeh, Sara Salamat, Morteza Zihayat, Ebrahim Bagheri
-**Publisher:** [Springer, Advances in Information Retrieval 2025](https://link.springer.com/chapter/10.1007/978-3-031-88714-7_29)
-**Google Scholar:** [Google Scholar link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AaaHZjkAAAAJ&citation_for_view=AaaHZjkAAAAJ:u5HHmVD_uO8C)
-**arXiv:** [arXiv-2502.06065](https://arxiv.org/abs/2502.06065)
+**Paper:** Benchmarking prompt sensitivity in large language models   
+**Conference:**  European Conference on Information Retrieval, 2025 (ECIR 2025)   
+**Authors:** Amirhossein Razavi, Mina Soltangheis, Negar Arabzadeh, Sara Salamat, Morteza Zihayat, Ebrahim Bagheri   
+**Publisher:** [Springer, Advances in Information Retrieval 2025](https://link.springer.com/chapter/10.1007/978-3-031-88714-7_29)   
+**Google Scholar:** [Google Scholar link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AaaHZjkAAAAJ&citation_for_view=AaaHZjkAAAAJ:u5HHmVD_uO8C)   
+**arXiv:** [arXiv-2502.06065](https://arxiv.org/abs/2502.06065)   
 
 ## Resources
 
