@@ -81,7 +81,7 @@ This research reveals fundamental limitations in current LLMs' ability to consis
 ## Publication Details
 **Paper:** Benchmarking prompt sensitivity in large language models   
 **Conference:**  European Conference on Information Retrieval, 2025 (ECIR 2025)   
-**Authors:** Amirhossein Razavi, Mina Soltangheis, Negar Arabzadeh, Sara Salamat, Morteza Zihayat, Ebrahim Bagheri   
+**Authors:** **Amirhossein Razavi**, Mina Soltangheis, Negar Arabzadeh, Sara Salamat, Morteza Zihayat, Ebrahim Bagheri   
 **Publisher:** [Springer, Advances in Information Retrieval 2025](https://link.springer.com/chapter/10.1007/978-3-031-88714-7_29)   
 **Google Scholar:** [Google Scholar link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AaaHZjkAAAAJ&citation_for_view=AaaHZjkAAAAJ:u5HHmVD_uO8C)   
 **arXiv:** [arXiv-2502.06065](https://arxiv.org/abs/2502.06065)   
