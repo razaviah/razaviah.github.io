@@ -8,12 +8,19 @@ redirect_from:
 
 ## Academic Projects
 
+<a href="https://razaviah.github.io/projects/benchmarking-prompt-sensitivity-in-large-language-models" target="_blank">Benchmarking Prompt Sensitivity in Large Language Models</a>
+:   **Supervisor:** Prof. Bagheri
+:   **Type:** Research Publication, Natural Language Processing (NLP), Large Language Models (LLMs)
+:   **Project Materials:** Includes Research Paper, Poster, and GitHub Repository
+:   
+:   This research introduces the Prompt Sensitivity Prediction task and PromptSET dataset, investigating how slight variations in prompt formulation impact LLM performance. Using 11,469 prompts with 9 variations each from TriviaQA and HotpotQA datasets, the study benchmarks multiple approaches including LLM self-evaluation, text classification, and query performance prediction methods. Findings reveal that existing methods struggle with prompt sensitivity prediction, highlighting the need for specialized approaches to help users craft more reliable prompts.
+
 
 <a href="https://razaviah.github.io/projects/query-performance-prediction-via-llm-generated-query-variations" target="_blank">Query Performance Prediction via LLM-Generated Query Variations</a>
 :   **Supervisor:** Prof. Ensan
 :   **Type:** Information Retrieval (IR), Natural Language Processing (NLP)
-:   **Project Materials:** Includes Project Report and GitHub Repository
-:
+:   **Project Materials:** Includes Project Report, and GitHub Repository
+:   
 :   This project explores Query Performance Prediction (QPP) through Large Language Model–generated query variations. Instead of embedding-space perturbations like ADG-QPP, it uses LLMs (LLaMA 3.1) to produce semantically equivalent queries evaluated with BM25 retrieval. The approach offers interpretable, natural-language robustness estimation and achieves strong correlation performance especially on challenging queries showing LLM based QPP as a viable alternative to dense methods.
 
 
@@ -22,7 +29,7 @@ redirect_from:
 :   **Supervisor:** Prof. An
 :   **Type:** Capstone Project, Natural Language Processing (NLP), Natural Question Generation (NQG)
 :   **Project Materials:** Includes Project Report, Slides, and GitHub Repository
-:
+:   
 :   This project aimed to create and evaluate a new dataset for natural question generation, emphasizing the practical use of natural-sounding questions in real-world applications. Utilizing state-of-the-art NLP models like BART and T5, the project focused on generating and validating a dataset that effectively aids in natural question generation tasks.
 
 <!-- <a href="https://razaviah.github.io/projects/enhancing-customer-insights-in-wholesale-distribution" target="_blank">Enhancing Customer Insights in Wholesale Distribution</a>
