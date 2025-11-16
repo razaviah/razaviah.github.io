@@ -21,7 +21,7 @@ Please take a moment to navigate through the top bar of my website. There, you'l
 
 ## About Me
 
-Welcome! I am Amirhossein Razavi, a second-year Master of Applied Science (MASc) student at Toronto Metropolitan University, where I conduct research under the supervision of [Dr. Ebrahim Bagheri](https://ischool.utoronto.ca/faculty-profile/bagheri-ebrahim/) in the [Information Retrieval Lab](https://ls3.rnet.torontomu.ca/). My research focuses on advancing the frontiers of Natural Language Processing (NLP) and Information Retrieval (IR), with particular emphasis on understanding and improving the Large Language Models (LLMs).
+Welcome! I am Amirhossein Razavi, a second-year Master of Applied Science (MASc) student at Toronto Metropolitan University, where I conduct research under the supervision of [Dr. Ebrahim Bagheri](https://ischool.utoronto.ca/faculty-profile/bagheri-ebrahim/) in the [LS3 Lab](https://ls3.rnet.torontomu.ca/). My research focuses on advancing the frontiers of Natural Language Processing (NLP) and Information Retrieval (IR), with particular emphasis on understanding and improving the Large Language Models (LLMs).
 
 
 ## Research Interests
