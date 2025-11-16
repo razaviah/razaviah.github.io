@@ -4,8 +4,8 @@ title: "Query Performance Prediction via LLM-Generated Query Variations"
 author_profile: true
 ---
 
-**Supervisor:** Prof. Ensan
-**Type:** Academic Project (Neural Networks, Information Retrieval)
+**Supervisor:** Prof. Ensan  
+**Type:** Information Retrieval (IR), Natural Language Processing (NLP)
 
 ## Overview
 This project focuses on predicting query performance in information retrieval systems by leveraging large language models (LLMs) to generate semantically similar query variations. The system combines modern LLM capabilities with traditional BM25 ranking algorithms to analyze how different query formulations affect retrieval effectiveness across document collections, with a particular focus on the MS MARCO dataset.
@@ -56,7 +56,7 @@ The system is designed for efficiency and reproducibility:
 This project bridges modern LLM capabilities with traditional information retrieval evaluation, offering a novel approach to query performance prediction. By systematically analyzing how semantically similar query variations perform across a large-scale dataset, the work contributes to understanding the relationship between query formulation and retrieval effectiveness, with potential applications in query optimization and search system design.
 
 ## Source Code
-The complete implementation is available on GitHub: [qpp-with-llm](https://github.com/razaviah/qpp-with-llm)
+The complete implementation is available on GitHub: [**qpp-with-llm**](https://github.com/razaviah/qpp-with-llm)
 
 ## Project Report
 

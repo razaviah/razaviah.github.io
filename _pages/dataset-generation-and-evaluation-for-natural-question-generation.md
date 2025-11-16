@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 **Supervisor:** Prof. An  
-**Type:** Academic Project (Capstone Project, NLP, NQG)
+**Type:** Capstone Project, Natural Language Processing (NLP), Natural Question Generation (NQG)
 
 ## Overview
 This capstone project focuses on developing and evaluating a novel dataset for natural question generation (NQG). Aimed at bridging the gap in sentence-based natural question answering datasets, this project utilizes state-of-the-art NLP models, including BART and T5, to generate and validate a dataset conducive to practical NQG applications.
@@ -32,6 +32,9 @@ This capstone project focuses on developing and evaluating a novel dataset for n
 
 ## Conclusion
 The project represents a significant step in NQG, offering a robust dataset and insights into model evaluations, paving the way for future research in NLP.
+
+## Source Code
+The complete implementation is available on GitHub: [**Dataset-Generation-and-Evaluation-for-Natural-Question-Generation**](https://github.com/razaviah/Dataset-Generation-and-Evaluation-for-Natural-Question-Generation)
 
 ## Project Report
 View the detailed project report below (if the file is not showing up, please refresh the page or <a href="https://raw.githubusercontent.com/razaviah/razaviah.github.io/master/files/EECS4088-Final-Project-Report.pdf" target="_blank">download the report here</a>):
