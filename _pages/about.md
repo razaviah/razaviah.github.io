@@ -26,7 +26,7 @@ Welcome! I am Amirhossein Razavi, a second-year Master of Applied Science (MASc)
 
 ## Research Interests
 
-- **Natural Language Processing**: LLMs, prompt engineering, RAG, Prompt performance prediction
+- **Natural Language Processing**: LLMs, prompt engineering, RAG, prompt performance prediction
 - **Information Retrieval**: Query performance prediction, recommendation systems, search effectiveness
 
 ## Featured Publication
