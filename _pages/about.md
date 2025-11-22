@@ -34,6 +34,6 @@ Welcome! I am Amirhossein Razavi, a second-year Master of Applied Science (MASc)
 **Benchmarking Prompt Sensitivity in Large Language Models**   
 **A. Razavi**, M. Soltangheis, N. Arabzadeh, S. Salamat, M. Zihayat, E. Bagheri   
 *European Conference on Information Retrieval (ECIR 2025)*   
-**Citations: 40+** | [Paper](https://arxiv.org/abs/2502.06065) | [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AaaHZjkAAAAJ&citation_for_view=AaaHZjkAAAAJ:u5HHmVD_uO8C)
+[Paper](https://arxiv.org/abs/2502.06065) | [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AaaHZjkAAAAJ&citation_for_view=AaaHZjkAAAAJ:u5HHmVD_uO8C)
 
 This research introduced the novel task of Prompt Sensitivity Prediction and presented PromptSET, a comprehensive benchmark dataset for investigating how variations in prompt formulation impact LLM performance. The work addresses critical challenges in deploying LLMs reliably in real-world applications. You can read more about this research in [here](https://razaviah.github.io/projects/benchmarking-prompt-sensitivity-in-large-language-models).
